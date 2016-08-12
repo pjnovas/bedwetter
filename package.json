@@ -36,7 +36,7 @@
   },
   "peerDependencies": {
     "hapi": ">=6.x.x",
-    "dogwater": ">=0.3 <0.5"
+    "dogwater": "*"
   },
   "devDependencies": {
     "hapi": "~7.x.x",
